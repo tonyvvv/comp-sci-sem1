@@ -1,0 +1,19 @@
+{
+    "intents":[
+        {
+            "tags": "greetings",
+            "patterns": ["hello", "how are you", "hi", "whats up", "hey", "good morning", "good afternoon", "yo", "barev", "bonjour"],
+            "responses": ["what do you want", "what is it", "hurry up", "what bro", "?"]
+        },
+        {
+            "tags": "goodbye",
+            "patterns": ["bye", "good night", "see you later", "cya", "adios", "goodbye", "gtg", "gotta go"],
+            "responses": ["finaly", "just get out already", "its not like i wanted to talk you you anyways", "i didnt want you here anyways", "then leave already"]
+        },
+        {
+            "tags": "Q",
+            "patterns": ["recommendations", "shojo manga", "romance", "shojo", " romance manga", "isekai manga", "isekai", "comedy", "comedy manga", "funny", "similar to", "what is a manga similar to", "what is a good manga to read","good manga", "give me a manga", "what is a good manga", "what is the best manga", "give me a beginner manga", "what is a beginner manga", "beginner manga"],
+            "responses": ["try reading kamisama kiss", " try reading love com", "try reading maid sama", "try reading my neighbor seki", "try reading kimi ni todoke", "try reading moonlit tsukimichi","try reading saiki k", "try reading gintama"] 
+        }
+    ]
+}

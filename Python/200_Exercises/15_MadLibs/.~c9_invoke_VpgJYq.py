@@ -1,0 +1,9 @@
+a = input('Choose a weird noun: ')
+b = input('Choose a verb ending in -ing: ')
+c = input('Choose a silly adjective: ')
+d = input('Choose a food: ')
+e = input('Choose a quantity: ')
+f = input('Choose a famous person: ')
+g = input('Choose a funky noise: ')
+
+print('The '+c+' waiter handed him '+e+' '+d+'and you hear a '+g+' and you turn to see '+f+'')
